@@ -16,4 +16,5 @@ See Also: https://github.com/sfyuen/dwg-full-text-search
     * directory: local directory of the dwg files
     * esindex: Index name of Elasticsearch to add the documents
     * escredential: Credentials of Elasticsearch, requires writing privilege
+    * "path" variable of function "load": URL path to download each of your DWG files
 3.	Execute main.py:
